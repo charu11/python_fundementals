@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb7270da-f3db-40a5-b280-e7501cee7957" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generator_further.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_com_gen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi_processing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_processing2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fund.py" beforeDir="false" afterPath="$PROJECT_DIR$/fund.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/multi_processing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +32,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.multi_processing">
+  <component name="RunManager" selected="Python.mp_ex">
     <configuration name="enum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pure_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="interm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mp_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pure_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mp_ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mp_ex" />
         <item itemvalue="Python.multi_processing" />
         <item itemvalue="Python.generator_further" />
         <item itemvalue="Python.zip" />
         <item itemvalue="Python.enum" />
-        <item itemvalue="Python.interm" />
       </list>
     </recent_temporary>
   </component>
@@ -171,26 +168,26 @@
       <screen x="1920" y="0" width="1360" height="768" />
     </state>
     <state x="2380" y="142" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.1360.768@1920.0.1360.768" timestamp="1585328375078" />
-    <state width="932" height="270" key="GridCell.Tab.0.bottom" timestamp="1585759215975">
+    <state width="932" height="270" key="GridCell.Tab.0.bottom" timestamp="1585837429833">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1332" height="177" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1360.768@1920.0.1360.768" timestamp="1585307840975" />
-    <state width="932" height="270" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585759215975" />
-    <state width="932" height="270" key="GridCell.Tab.0.center" timestamp="1585759215972">
+    <state width="932" height="270" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585837429833" />
+    <state width="932" height="270" key="GridCell.Tab.0.center" timestamp="1585837429829">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1332" height="177" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1360.768@1920.0.1360.768" timestamp="1585307840975" />
-    <state width="932" height="270" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585759215972" />
-    <state width="932" height="270" key="GridCell.Tab.0.left" timestamp="1585759215971">
+    <state width="932" height="270" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585837429829" />
+    <state width="932" height="270" key="GridCell.Tab.0.left" timestamp="1585837429827">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1332" height="177" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1360.768@1920.0.1360.768" timestamp="1585307840975" />
-    <state width="932" height="270" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585759215971" />
-    <state width="932" height="270" key="GridCell.Tab.0.right" timestamp="1585759215973">
+    <state width="932" height="270" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585837429827" />
+    <state width="932" height="270" key="GridCell.Tab.0.right" timestamp="1585837429831">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1332" height="177" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1360.768@1920.0.1360.768" timestamp="1585307840975" />
-    <state width="932" height="270" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585759215973" />
+    <state width="932" height="270" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585837429831" />
     <state width="1332" height="223" key="GridCell.Tab.1.bottom" timestamp="1585305982335">
       <screen x="1920" y="0" width="1360" height="768" />
     </state>
@@ -207,10 +204,14 @@
       <screen x="1920" y="0" width="1360" height="768" />
     </state>
     <state width="1332" height="223" key="GridCell.Tab.1.right/0.27.1920.1053/1920.0.1360.768@1920.0.1360.768" timestamp="1585305982335" />
-    <state x="460" y="316" key="com.intellij.ide.util.TipDialog" timestamp="1585759005743">
+    <state x="0" y="188" width="1007" height="737" key="SettingsEditor" timestamp="1585837516969">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="0" y="188" width="1007" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1585837516969" />
+    <state x="460" y="316" key="com.intellij.ide.util.TipDialog" timestamp="1585841112705">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="2246" y="211" key="com.intellij.ide.util.TipDialog/0.27.1920.1053/1920.0.1360.768@1920.0.1360.768" timestamp="1585328026782" />
-    <state x="460" y="316" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1585759005743" />
+    <state x="460" y="316" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1585841112705" />
   </component>
 </project>
