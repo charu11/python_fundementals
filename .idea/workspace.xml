@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb7270da-f3db-40a5-b280-e7501cee7957" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bubble.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bubble2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decoration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bubble.py" beforeDir="false" afterPath="$PROJECT_DIR$/bubble.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +36,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.oop.py">
-    <configuration name="generator_further" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.special_methods">
+    <configuration name="bubble" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pure_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -42,11 +45,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bubbles_game" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generator_further.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bubbles_game/bubble.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,6 +121,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="special_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pure_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/special_methods.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="zip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pure_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.special_methods" />
+        <item itemvalue="Python.bubble" />
         <item itemvalue="Python.oop.py" />
         <item itemvalue="Python.mp_ex" />
         <item itemvalue="Python.multi_processing" />
-        <item itemvalue="Python.generator_further" />
-        <item itemvalue="Python.zip" />
       </list>
     </recent_temporary>
   </component>
@@ -179,26 +203,26 @@
       <screen x="1920" y="0" width="1360" height="768" />
     </state>
     <state x="2380" y="142" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.1360.768@1920.0.1360.768" timestamp="1585328375078" />
-    <state width="912" height="343" key="GridCell.Tab.0.bottom" timestamp="1585926691448">
+    <state width="932" height="452" key="GridCell.Tab.0.bottom" timestamp="1586107753687">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1332" height="177" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1360.768@1920.0.1360.768" timestamp="1585307840975" />
-    <state width="912" height="343" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585926691448" />
-    <state width="912" height="343" key="GridCell.Tab.0.center" timestamp="1585926691447">
+    <state width="932" height="452" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1586107753687" />
+    <state width="932" height="452" key="GridCell.Tab.0.center" timestamp="1586107753686">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1332" height="177" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1360.768@1920.0.1360.768" timestamp="1585307840975" />
-    <state width="912" height="343" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585926691447" />
-    <state width="912" height="343" key="GridCell.Tab.0.left" timestamp="1585926691446">
+    <state width="932" height="452" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1586107753686" />
+    <state width="932" height="452" key="GridCell.Tab.0.left" timestamp="1586107753686">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1332" height="177" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1360.768@1920.0.1360.768" timestamp="1585307840975" />
-    <state width="912" height="343" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585926691446" />
-    <state width="912" height="343" key="GridCell.Tab.0.right" timestamp="1585926691448">
+    <state width="932" height="452" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1586107753686" />
+    <state width="932" height="452" key="GridCell.Tab.0.right" timestamp="1586107753687">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1332" height="177" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1360.768@1920.0.1360.768" timestamp="1585307840975" />
-    <state width="912" height="343" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585926691448" />
+    <state width="932" height="452" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1586107753687" />
     <state width="912" height="336" key="GridCell.Tab.1.bottom" timestamp="1585925865558">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -223,10 +247,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="0" y="188" width="1007" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1585885792608" />
-    <state x="460" y="316" key="com.intellij.ide.util.TipDialog" timestamp="1585923561885">
+    <state x="460" y="316" key="com.intellij.ide.util.TipDialog" timestamp="1586083341794">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="2246" y="211" key="com.intellij.ide.util.TipDialog/0.27.1920.1053/1920.0.1360.768@1920.0.1360.768" timestamp="1585328026782" />
-    <state x="460" y="316" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1585923561885" />
+    <state x="460" y="316" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1586083341794" />
   </component>
 </project>
